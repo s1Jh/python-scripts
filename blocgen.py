@@ -2,9 +2,13 @@ import pygame, sys
 import pygame.freetype
 
 """
+    This is horrible code.
+    But it does what I need to and I sorta know how to extend it.
+
     Generates an image of a block scheme circuit.
     usage:
-        python blocgen.py --inputs <space separated list of input signals> --outputs <space separated list of output signals>
+        refer to --help or the block of text bellow this
+        
 """
 
 SCALE = 20
